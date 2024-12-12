@@ -5,8 +5,18 @@
         "isbn": 87775,
         "year": 2023,
         "price": 100.0,
-        "quantity": 11,
+        "quantity": 10,
         "bookAddedAt": "12-12-2024 20:04:35",
         "bookLastUpdatedAt": "12-12-2024 20:08:32"
+    },
+    {
+        "title": "Book1",
+        "author": "SHS",
+        "isbn": 98927,
+        "year": 2022,
+        "price": 100.0,
+        "quantity": 10,
+        "bookAddedAt": "12-12-2024 20:37:56",
+        "bookLastUpdatedAt": "12-12-2024 20:37:56"
     }
 ]
