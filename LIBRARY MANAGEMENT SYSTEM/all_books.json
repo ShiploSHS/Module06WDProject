@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Shiplo's Book",
+        "author": "Shiplo",
+        "isbn": 87775,
+        "year": 2023,
+        "price": 100.0,
+        "quantity": 11,
+        "bookAddedAt": "12-12-2024 20:04:35",
+        "bookLastUpdatedAt": "12-12-2024 20:08:32"
+    }
+]
